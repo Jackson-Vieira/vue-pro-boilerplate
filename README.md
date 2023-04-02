@@ -1,6 +1,6 @@
 # vue-pro-boilerplate
 
-This template should help get you started developing with Vue 3 in Vite.
+Vue Boilerplate with Vite, Vitestest Vue Router, Axios, Eslint, Prettier, TailwindCSS, and TypeScript
 
 ## Recommended IDE Setup
 
